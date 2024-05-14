@@ -9,7 +9,7 @@ The workspace includes default build task that compiles the library and then the
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Adobe AIR SDK](https://airsdk.harman.com/)
 - [ActionScript & MXML language extension](https://marketplace.visualstudio.com/items?itemName=bowlerhatllc.vscode-as3mxml)
-- [Debugger for SWF extension](https://marketplace.visualstudio.com/items?itemName=bowlerhatllc.vscode-swf-debug).
+- [Debugger for SWF extension](https://marketplace.visualstudio.com/items?itemName=bowlerhatllc.vscode-swf-debug)
 
 ## Notes
 
